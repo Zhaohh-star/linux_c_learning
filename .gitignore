@@ -1,0 +1,12 @@
+*.o
+hello
+args
+greet_app
+ctool
+copy_fd
+line_count
+writer
+reader
+memory_demo
+record_tool
+debug_demo

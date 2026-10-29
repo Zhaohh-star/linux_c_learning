@@ -13,4 +13,6 @@ debug_demo
 temp_convert
 avg_demo
 systemIO
-
+standardIO
+standardIO_fgetS
+standardIO_fread
